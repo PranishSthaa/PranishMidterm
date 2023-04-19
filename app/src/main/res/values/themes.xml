@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PranishCalculatorMidterm" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/my_light_primary</item>
+    </style>
+
+    <style name="Theme.PranishCalculatorMidterm" parent="Base.Theme.PranishCalculatorMidterm" />
+
+    <color name="my_light_primary">#F15422</color>
+</resources>
